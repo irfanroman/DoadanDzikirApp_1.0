@@ -23,11 +23,11 @@
     <string name="content_txt_image_artikel">Image Poster Detail Artikel</string>
 
     <string-array name="arr_img_artikel">
-        <item>@drawable/artikel_new_01</item>
-        <item>@drawable/artikel_new_02</item>
-        <item>@drawable/artikel_new_03</item>
-        <item>@drawable/artikel_new_04</item>
-        <item>@drawable/artikel_new_05</item>
+        <item>@drawable/sedekah</item>
+        <item>@drawable/senyuman</item>
+        <item>@drawable/bicara</item>
+        <item>@drawable/ilmu</item>
+        <item>@drawable/sabar</item>
     </string-array>
 
     <string-array name="arr_title_artikel">
